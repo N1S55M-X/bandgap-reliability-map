@@ -449,6 +449,8 @@ Experimental or higher-fidelity computational confirmation remains necessary.
 
 The model pulls extreme values toward the more common middle of the dataset.
 
+<img width="1901" height="1621" alt="download (20)" src="https://github.com/user-attachments/assets/4d3d3f45-d544-4398-bd46-28da2368a757" />
+
 ```text
 Very low gaps  → pulled upward
 Very high gaps → pulled downward
